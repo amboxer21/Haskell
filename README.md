@@ -13,4 +13,4 @@ GHCi, version 8.10.4: https://www.haskell.org/ghc/  :? for help
 Prelude>
 ```
 
-**NOTE:** ^^ Use shift D to exit the interpretter
+**NOTE:** ^^ Use `control + d` to exit the interpretter
