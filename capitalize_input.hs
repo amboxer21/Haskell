@@ -7,5 +7,4 @@ capitalizeInput input = do
 main :: IO()
 main = do
     line <- getLine
-    let input = capitalizeInput line
-    print (input)
+    print (capitalizeInput line)
