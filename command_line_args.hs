@@ -1,5 +1,3 @@
-import System.IO
-import Control.Monad
 import System.Environment
 
 main :: IO ()
